@@ -1,0 +1,5 @@
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.csproj.AssemblyReference.cache
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.GeneratedMSBuildEditorConfig.editorconfig
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.AssemblyInfoInputs.cache
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.AssemblyInfo.cs
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.csproj.CoreCompileInputs.cache

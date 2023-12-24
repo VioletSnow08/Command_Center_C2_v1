@@ -3,3 +3,13 @@ I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7
 I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.AssemblyInfoInputs.cache
 I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.AssemblyInfo.cs
 I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.csproj.CoreCompileInputs.cache
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\bin\Debug\net7.0\c2_server.exe
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\bin\Debug\net7.0\c2_server.deps.json
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\bin\Debug\net7.0\c2_server.runtimeconfig.json
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\bin\Debug\net7.0\c2_server.dll
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\bin\Debug\net7.0\c2_server.pdb
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.dll
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\refint\c2_server.dll
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.pdb
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\c2_server.genruntimeconfig.cache
+I:\Work\Development\Cyber Security\Command_Center_C2_v1\c2_server\obj\Debug\net7.0\ref\c2_server.dll
